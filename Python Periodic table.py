@@ -6,8 +6,8 @@ def Periodic_table():
 
     if username == "yes" and password == "ok":
         print()
-        print("     Login successful!   ")
-        print("--Wellcome to Codehattan!--")
+        print("       Login successful!   ")
+        print("--Wellcome to Periodic-table!--")
         print()
 
         Atomic_Number = int(input("Enter your Atomic Number: "))
